@@ -26,8 +26,8 @@ seras weon que me los pone todos xd
 -Arreglado el buff de las nuevas alas
 -Arreglado las animaciones de las sps 1
 
-
-Sp 1 (Warrior): Bugg en su last,no hay animación. Por lo demás las skill de juntar y separar matan a los enemigos
+# War
+Sp 1 (Warrior): ~~Bugg en su last,no hay animación~~ . Por lo demás las skill de juntar y separar matan a los enemigos
 
 Sp 2 (Ninja): Energy Blade, Lethal Blow y el Last no tiene  animación.
 
@@ -43,15 +43,16 @@ Sp 7 (Cazador ): Spirit Catches,Soul Bash y Bloodsucker no tienen animación. De
 
 Sp 8 (Renegado): Judgement of Light,Justice,Blade of the Cross, Corruption y Judgement of Damnation no tiene animación
 
-Arquero
+# Arquero
 Wk: Last y zarpa de bestia- todos visuales 
 Canon: Fuego infernal- disparo con objetivo- todos visuales
 Espia: invi- retroceso- humo o flacha de niebla- setidos aguzados del halcon bug no visual no pega al lanzarlo
 - espiar cuenta como danio y se quedan las opcines ahi bug no visual- los buffs no funcionan
 Cazador de demonio: Posesion esta bug cuenta como danio- conjuro de los espiritus bug visual-
 espiritu escalofrio de la venganza visual-  pendulo solo hace danio no da el buff
-Av: Last bug visual- punzada de meteorito bug visual- cuchilla relampago visual- las bendis hielo fuego entre otras bug
-Mago
+Av: Last bug visual- punzada de meteorito bug visual- cuchilla relampago visu**** al- las bendis hielo fuego entre otras bug
+
+# Mago
 Dark gunner: El rquim mata no desbufea- Pocion malefica mata no desbufea- recarga fantasmal visual- Rayo Magico visual-
 Posesion bug mata a los mobs no desbuffea pero a los personajes no le hacen efecto
 Volcano: rugido de volcan visual- Ola de lava y erupcion volcanica Visual
