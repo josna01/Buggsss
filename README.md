@@ -43,5 +43,27 @@ Sp 7 (Cazador ): Spirit Catches,Soul Bash y Bloodsucker no tienen animación. De
 
 Sp 8 (Renegado): Judgement of Light,Justice,Blade of the Cross, Corruption y Judgement of Damnation no tiene animación
 
+Arquero
+Wk: Last y zarpa de bestia- todos visuales 
+Canon: Fuego infernal- disparo con objetivo- todos visuales
+Espia: invi- retroceso- humo o flacha de niebla- setidos aguzados del halcon bug no visual no pega al lanzarlo
+- espiar cuenta como danio y se quedan las opcines ahi bug no visual- los buffs no funcionan
+Cazador de demonio: Posesion esta bug cuenta como danio- conjuro de los espiritus bug visual-
+espiritu escalofrio de la venganza visual-  pendulo solo hace danio no da el buff
+Av: Last bug visual- punzada de meteorito bug visual- cuchilla relampago visual- las bendis hielo fuego entre otras bug
+Mago
+Dark gunner: El rquim mata no desbufea- Pocion malefica mata no desbufea- recarga fantasmal visual- Rayo Magico visual-
+Posesion bug mata a los mobs no desbuffea pero a los personajes no le hacen efecto
+Volcano: rugido de volcan visual- Ola de lava y erupcion volcanica Visual
+Poseidon: last no tiene danio- Romolino no funciona ni el visual ni el juntar- dormir no funciona- hora de comer visual-
+Vidente: Los desbuff no van ni visual- inmortalidad no va- last viasual y de danio- Extraccion de mana visual-
+Mano maldita visual solo sale 1 cuando se manda en area  pero hace danio a su alrededor-
+Archimago: base bug visual- tormenta de moteoros bug visual y de danio- niebla seca mata mobs, visual- Catalizador visual-
+prisma sacro visual- cura no va-
+Pets Buffs
+La vikinga no da buff
+Buff de la ardilla ninja no va 
 
+
+ 
 Demomento no hay mas
