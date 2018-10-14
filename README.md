@@ -41,3 +41,6 @@ Sp 6 (Monje):Dentro de la habilidad Cyclone (Dragonspear) se bugea en bastantes 
 Sp 7 (Cazador ): Spirit Catches,Soul Bash y Bloodsucker no tienen animación. Death Approaches al ser usada se bugea en otros números y hace incapaz de poder usas las otras skills. Time Twister no funciona y Reaper's Scythe no funciona tampoco.
 
 Sp 8 (Renegado): Judgement of Light,Justice,Blade of the Cross, Corruption y Judgement of Damnation no tiene animación
+
+
+Demomento no hay mas
